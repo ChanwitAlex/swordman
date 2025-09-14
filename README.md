@@ -3,7 +3,7 @@
 <img width="1051" height="597" alt="image" src="https://github.com/user-attachments/assets/c4587e10-4214-4a82-8a68-72ebd78ec380" />
 # Player Move
 <img width="1081" height="603" alt="image" src="https://github.com/user-attachments/assets/f5ccb76b-2c1c-4955-953b-2a48dd1575f6" />
-# Damage System and Health Bar
+## Damage System and Health Bar
 เมื่อตัวละครเดินไปชนกับวัตถุในด่านที่เราตั้งไว้จะทำการลดเลือดของตัวละคร
 <img width="1033" height="607" alt="image" src="https://github.com/user-attachments/assets/1369161b-6ead-4f57-8797-baec5cf11174" />
 # Collect Gem
