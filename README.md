@@ -17,6 +17,6 @@
 # กระโดด<br>
 <img width="937" height="536" alt="image" src="https://github.com/user-attachments/assets/411dbd0e-2386-406f-926c-17c09cef2e7d" />
 # เดินหน้าถอยหลัง<br>
-https://github.com/user-attachments/assets/3ea98f30-5224-4282-8cfd-e63cb5edba69
+https://github.com/user-attachments/assets/3ea98f30-5224-4282-8cfd-e63cb5edba69<br>
 # บาดเจ็บ<br>
 <img width="533" height="482" alt="Screenshot 2025-09-13 202605" src="https://github.com/user-attachments/assets/806f9deb-4dc4-4db6-8192-6e302a6a8b4b" />
